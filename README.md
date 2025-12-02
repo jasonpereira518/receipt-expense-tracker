@@ -15,7 +15,9 @@ It simplifies expense tracking by identifying store names, detecting totals, and
 
 • Modular Design: The OCR functionality is isolated in ocr_reader.py and can be reused in other projects.
 
-##Tech Stack
+
+## Tech Stack
+
 **Python 3**
 • pytesseract (OCR engine)
 • Pillow (PIL) for image handling
